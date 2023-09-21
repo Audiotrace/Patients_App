@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "name": "therapy_session_image",
+            "image_path": "therapy_session.png",
+            "size": [
+                660,
+                525
+            ]
+        },
+        {
+            "name": "python_logo",
+            "image_path": "python_logo.png",
+            "size": [
+                561,
+                614
+            ]
+        },
+        {
+            "name": "roses_image",
+            "image_path": "roses.png",
+            "size": [
+                976,
+                519
+            ]
+        },
+        {
+            "name": "funny_clipart_image",
+            "image_path": "therapy_funny_clipart.png",
+            "size": [
+                660,
+                414
+            ]
+        },
+        {
+            "name": "cat_image",
+            "image_path": "cat.png",
+            "size": [
+                500,
+                500
+            ]
+        },
+        {
+            "name": "cuckoo2_image",
+            "image_path": "cuckoo2.png",
+            "size": [
+                506,
+                679
+            ]
+        }
+    ]
+}
