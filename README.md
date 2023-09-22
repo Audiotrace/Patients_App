@@ -1,3 +1,3 @@
 # Patients_App
 
-This is an application for managing patients,appointments etc based on tkinter and customtkinter
+This is an application for managing patients,appointmentd etc based on tkinter and cudtomtkinter
